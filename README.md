@@ -1,7 +1,7 @@
 ### Hi there, I'm Soufiane - aka [kayosoufiane][website] 👋
 
-## I'm a Investor, Developer, and a Coach!
-- 🔭 I’m currently working on interessting projects
+## I'm a Investor, Developer and a Coach!
+- 🔭 I’m currently working on interesting projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
