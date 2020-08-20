@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://indaco.fr
+[website]: https://kayosoufiane.github.io/
 [twitter]: https://twitter.com/kayosoufiane
 [instagram]: https://instagram.com/kayosoufiane
 [linkedin]: https://www.linkedin.com/in/soufiane-khattab-71a92325
