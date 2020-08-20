@@ -3,12 +3,12 @@
 
 ## &nbsp
 
-### I'm Soufiane - aka [kayosoufiane][website] 👋
+### My name is Soufiane - aka [kayosoufiane][website] 👋
 
-## I'm a Investor, Developer and a Coach
+## I'm a Developer and a Coach
 
 - 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently eager to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
@@ -19,6 +19,7 @@
 [<img align="left" alt="kayosoufiane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kayosoufiane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -34,10 +35,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+<br/>
 ---
 
 [![Kayosoufiane's github stats](https://github-readme-stats.vercel.app/api?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
