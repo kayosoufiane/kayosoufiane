@@ -1,7 +1,7 @@
 
 # Hi there
 
-## $~$
+## &nbsp
 
 ### I'm Soufiane - aka [kayosoufiane][website] 👋
 
