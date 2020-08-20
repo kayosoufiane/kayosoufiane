@@ -1,7 +1,7 @@
 
 # Hi there
 
-## &nbsp
+## &nbsp;
 
 ### My name is Soufiane - aka [kayosoufiane][website] 👋
 
@@ -37,11 +37,13 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br/>
+
 ---
 
 [![Kayosoufiane's github stats](https://github-readme-stats.vercel.app/api?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
