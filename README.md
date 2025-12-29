@@ -15,9 +15,7 @@
 ### Connect with me
 
 [<img align="left" alt="kayosoufiane | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kayosoufiane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kayosoufiane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kayosoufiane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -40,7 +38,7 @@
 
 ---
 
-[![Kayosoufiane's github stats](https://github-readme-stats.vercel.app/api?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
+[![Kayosoufiane's github stats](https://github-readme-stats.vercel.app/api?username=kayosoufiane&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -49,8 +47,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://kayosoufiane.github.io/
-[twitter]: https://twitter.com/kayosoufiane
-[instagram]: https://instagram.com/kayosoufiane
 [linkedin]: https://www.linkedin.com/in/soufiane-khattab-71a92325
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
