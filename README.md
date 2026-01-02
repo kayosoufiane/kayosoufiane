@@ -1,16 +1,16 @@
 
-# Hi there
+# Hi there 👋
 
 ## &nbsp;
 
-### My name is Soufiane - aka [kayosoufiane][website] 👋
+### My name is Soufiane - aka [kayosoufiane][website]
 
-## I'm a Developer and a Coach
+## I'm a Solution Architect a CTO
 
 - 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently eager to learn everything 🤣
+- 🌱 I’m currently eager to learn 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
