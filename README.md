@@ -5,7 +5,7 @@
 
 ### My name is Soufiane - aka [kayosoufiane][website]
 
-## I'm a Solution Architect a CTO
+## I'm a Solution Architect and a CTO
 
 - 🔭 I’m currently working on interesting projects
 - 🌱 I’m currently eager to learn 🤣
@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://kayosoufiane.github.io/
-[linkedin]: https://www.linkedin.com/in/soufiane-khattab-71a92325
+[linkedin]: https://www.linkedin.com/in/soufiane-khattab/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
