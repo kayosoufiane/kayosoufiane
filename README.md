@@ -38,11 +38,12 @@
 
 ---
 ## Stats and activity
-![Kayosoufiane's github stats](https://github-readme-stats.vercel.app/api?username=kayosoufiane&show_icons=true&theme=radical)
 
 <br/>
 
 [![Soufiane's GitHub stats](https://github-stats-extended.vercel.app/api?username=kayosoufiane)](https://github.com/stats-organization/github-stats-extended)
+
+<br/>
 
 ---
 
